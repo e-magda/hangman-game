@@ -1,0 +1,11 @@
+words_list = ["closet", "loop", "office", "circle", "knife", "garage", "window", "peace", "strawberry",
+"snowball", "journal", "kiwi", "abyss", "lucky", "mountain", "discount", "shoes", "taxi", "vampire", "matrix",
+"oxygen", "pixel", "airplane", "justice", "watermelon", "mathematics", "adventure", "pneumonia", "wizard", "witchcraft",
+"scratch", "dictionary", "history", "stomach", "keyhole", "fishhook", "dwarves", "zodiac", "queue", "petroleum",
+"nobody", "sleep", "buffalo", "elbow", "backpack", "point", "toothbrush", "evening", "timeout", "holidays", "raindrop",
+"documents", "oatmeal", "practice", "wood", "bottle", "galaxy", "antidote", "testament", "teaspoon", "camel", "shadow",
+"reporter", "sunburn", "rainbow", "beginner", "cowboy", "business", "subway", "aspirin", "highlight", "ticket", "protest", 
+"strength", "lyrics", "fortune", "voicemail", "observatory", "paranoid", "fatigue", "breakfast", "channel", "president",
+"nutmeg", "member", "crocodile", "destination", "recipe", "hamster", "aquarium", "community", "philosopher", "jewellery",
+"comfortable", "skeleton", "trademark", "ladybug", "python", "squirrel", "salmon", "chameleon", "rooster", "grasshopper",
+"marshmallow", "jellybeans", "snowflake", "tropical", "villain", "microscope", "molecule", "neurology", "horsepower"] 
